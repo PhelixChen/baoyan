@@ -3,5 +3,4 @@
 ## 计算机专业
 * 凉粉大神的汇总
 https://github.com/shiyi001/baoyan-blog
-
-      
+* 笔者自己的经验 http://www.jianshu.com/p/9f5b0497b316
