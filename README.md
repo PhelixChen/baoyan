@@ -11,3 +11,4 @@ https://github.com/shiyi001/baoyan-blog
 <br>（2）http://blog.sina.cn/dpool/blog/newblog/mblog/controllers/articleapp.php?articleId=12f78bf680102wxln 
 ## 数学专业
 * HUSH大佬数学到管理
+https://github.com/PhelixChen/baoyan/blob/master/article/math-ustc.md
