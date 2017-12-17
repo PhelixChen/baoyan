@@ -15,3 +15,5 @@ https://github.com/PhelixChen/baoyan/blob/master/article/math-ustc.md
 ## 会计专业
 * L.B Yan大佬
 https://github.com/PhelixChen/baoyan/blob/master/article/kuaiji.md
+</br>
+版权为所有供稿同学所有，仅供保研学生参考，禁止转载
