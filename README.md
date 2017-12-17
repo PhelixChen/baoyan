@@ -12,3 +12,6 @@ https://github.com/shiyi001/baoyan-blog
 ## 数学专业
 * HUSH大佬数学到管理
 https://github.com/PhelixChen/baoyan/blob/master/article/math-ustc.md
+## 会计转行业
+* L.B Yan大佬
+https://github.com/PhelixChen/baoyan/blob/master/article/kuaiji.md
